@@ -1,0 +1,6 @@
+#Thu, 03 Sep 2020 23:26:20 -0700
+
+info.app.version=1.0.4
+info.app.name=sample-grails
+grails.env=production
+info.app.grailsVersion=4.0.4
